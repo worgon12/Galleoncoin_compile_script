@@ -1,1 +1,1 @@
-# Galleoncoin_compile_script
+# Galleoncoin Unix/ARM Compile Script
